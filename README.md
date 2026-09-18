@@ -1,15 +1,15 @@
 # Hello there; welcome 👋🏾
- 
-I am a cybersecurity Analyst proficient with Soc Analyst. I'm passionate about sharing knowledge, documentation, safeguarding thhe digital world, open source and others.
 
-**Here's a quick summary about me**:
+ I am a Cybersecurity Professional specializing in Governance, Risk & Compliance (GRC) and AI Governance, I bridge the gap between complex regulatory demands and strategic execution. Rather than simply identifying risks, I design and implement policies, controls, and governance frameworks that build measurable organizational resilience. 
 
-- 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying information technoloy at Brigham young university.
-- 🌱 I’m currently advancing in my soc career-incident response, threat intellience, phising and malware analysis etc.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level/ intermediate opportunities.
-- 💼 Job interests: Soc tier 1 & 2, incident response, cybersecurity program manager or cordinator.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1mszwKsZJYo0FrBhV3NxOpaYhVGt0KME-jqZMvOm7hd8/edit?usp=sharing) and contact me by emailing aoluchi61@gmail.com.
+**Core Expertise**:
+
+- 🔹GRC & AI Governance: NIST CSF, ISO 27001, SOC 2, EU AI Act / NIST AI RMF, HIPAA, GDPR, PCI DSS, ISO42001
+- 🔹 Risk Management: Risk Assessments, Third-Party Risk Management (TPRM), Business Impact Analysis (BIA)
+- 🔹 Program & Project Management: Strategic Planning, Framework Integration, Budget Oversight, Stakeholder Alignment
+- 🔹 Security Culture: Enterprise Training, Phishing Simulations, Behavioral Change Initiatives. 
+- 💼 Job interests: GRC Roles, Al Governance, cybersecurity program manager or cordinator.
+I am always open to connecting with fellow security leaders, risk officers, and professionals building the future of safe AI & security governance. You can contact me by emailing - aoluchi61@gmail.com.
 
 ---
 
